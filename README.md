@@ -64,7 +64,7 @@ python main.py
 
 ---
 
-## 🧠 Scoring Formula
+## 🧠 Scoring Calculating Formula
 
 ```
 Score = (Skill Match × 0.50) + (Experience Match × 0.30) + (Keyword Match × 0.20)

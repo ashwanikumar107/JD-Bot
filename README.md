@@ -88,6 +88,6 @@ Score = (Skill Match × 0.50) + (Experience Match × 0.30) + (Keyword Match × 0
 ## 📌 Notes
 
 - Resume PDF must be text-based (not scanned images)
-- Job Description can be PDF or plain text
+- Job Description can be PDF or plain text.
 - Generated resume is saved in the `output/` folder
 - Bot supports multiple users simultaneously via async handlers

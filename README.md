@@ -72,7 +72,7 @@ Score = (Skill Match × 0.50) + (Experience Match × 0.30) + (Keyword Match × 0
 
 ---
 
-## 🔧 Tech Stack
+## 🔧 Tech Stack 
 
 | Component | Technology |
 |-----------|------------|
@@ -87,7 +87,7 @@ Score = (Skill Match × 0.50) + (Experience Match × 0.30) + (Keyword Match × 0
 
 ## 📌 Notes
 
-- Resume PDF must be text-based (not scanned images)
+- Resume PDF must be text-based.
 - Job Description can be PDF or plain text.
 - Generated resume is saved in the `output/` folder
-- Bot supports multiple users simultaneously via async handlers
+- Bot supports multiple users simultaneously via async handlers.
